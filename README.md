@@ -23,7 +23,7 @@ I provide it as is. Though I'm kind of ‘power user’ I only use Linux to get 
 if you need help how to install the layout in the system of your choise, please ask the relevant question on StackOverflow.
 
 ## Licence
-Truth be told, I don’t card. Let it be *CC BY-SA*, OK? But if you break it, I will not be chasing you or hunting down. Do whatever you want.
+Truth be told, I don’t care. Let it be *CC BY-SA*, OK? But if you break it, I will not be chasing you or hunting down. Do whatever you want.
 Be nice to other people. As I don't drink alcohol, you can send me *good virtual coffee*.
 
 [1]: /img/typolayout_vectorized.png "Polish Typographic Keyboard Layout"
