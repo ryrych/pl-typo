@@ -7,16 +7,19 @@ I created the layout a few years ago and I still use it with success. For more i
 I have used it in various version of Kubuntu and in OpenSuse.
 
 ## How to install
-Content of `pl_typo_keyboard_layout` copy to `/usr/share/X11/xkb/symbols/pl`  
+• Copy content of `pl_typo_keyboard_layout` to `/usr/share/X11/xkb/symbols/pl`
+
 `cat pl_typo_keyboard_layout | sudo tee -a /usr/share/X11/xkb/symbols/pl`
 
-Copy `evdev*` files to `/usr/share/X11/xkb/rules`  
+• Copy `evdev*` files to `/usr/share/X11/xkb/rules`
+
 `sudo cp evdev.* /usr/share/X11/xkb/rules/`
 
-Run in terminal
+• In terminal run
+
 `setxkbmap -layout pl -variant typographic -v`
 
-In keyboard layout switcher in your system choose the new layout
+• In keyboard layout switcher in your system choose the new layout
 
 ## Need help?
 I provide it as is. Though I'm kind of ‘power user’ I only use Linux to get things done, not to play around it. That’s why
@@ -26,6 +29,5 @@ if you need help how to install the layout in the system of your choise, please 
 Truth be told, I don’t care. Let it be *CC BY-SA*, OK? But if you break it, I will not be chasing you or hunting down. Do whatever you want.
 Be nice to other people. As I don't drink alcohol, you can send me *good virtual coffee*.
 
-[1]: /img/typolayout_vectorized.png "Polish Typographic Keyboard Layout"
-
 ## Typo, Typo, Über Alles!
+[1]: /img/typolayout_vectorized.png "Polish Typographic Keyboard Layout"
